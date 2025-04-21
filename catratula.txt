@@ -1,0 +1,14 @@
+# Proyecto: Resolución de Sistemas Lineales 3x3 con Python en jupyter
+
+**Nombre del Proyecto:** Resolución de Sistemas Lineales  
+**Integrantes del equipo:**  
+**Curso:**   
+**Fecha de entrega:** 
+
+---
+
+## Métodos a utilizar:
+1. Inversa
+2. LU
+3. Gauss-Jordan
+4. Máximo Elemento Pivote

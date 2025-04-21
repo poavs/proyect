@@ -1,0 +1,25 @@
+Método de Máximo Elemento Pivote
+
+3x + 2y -  z =  1
+2x - 2y + 4z = -2
+-x + ½y -  z =  0
+
+Características:
+
+Sistema bien condicionado con solución única
+Contiene coeficientes fraccionarios para demostrar precisión
+Requiere pivoteo para mantener estabilidad numérica
+
+Análisis de resultados
+Proceso de pivoteo:
+Se intercambió la primera y segunda fila para tener el mayor pivote (2 vs 3)
+Se mantuvo la estabilidad numérica durante las operaciones
+
+Precisión:
+Los resultados verifican perfectamente las ecuaciones originales
+Se manejan correctamente los valores fraccionarios
+
+Ventajas del método:
+Evita divisiones por cero
+Minimiza errores de redondeo
+Proporciona solución exacta para sistemas bien condicionados

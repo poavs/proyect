@@ -1,0 +1,17 @@
+Método de Gauss-Jordan
+
+3x - 0.1y - 0.2z = 7.85
+0.1x + 7y - 0.3z = -19.3
+0.3x - 0.2y + 10z = 71.4
+
+Características: Sistema con coeficientes que requieren manejo cuidadoso de decimales.
+
+Descripción del método
+Gauss-Jordan:
+
+Forma la matriz aumentada [A|b]
+Aplica operaciones elementales para convertir A en la matriz identidad
+La solución aparece en la columna aumentada
+
+Comentario final
+Gauss-Jordan es directo pero computacionalmente más intensivo que la eliminación gaussiana estándar. Proporciona la matriz inversa como subproducto.

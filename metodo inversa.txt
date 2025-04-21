@@ -1,0 +1,23 @@
+## Método de la Inversa
+
+El método de la matriz inversa se basa en la fórmula:  
+\[ X = A^{-1}B \]  
+donde:
+( A \) es la matriz de coeficientes del sistema,
+( B \) es el vector de resultados,
+( X \) es el vector incógnita,
+- \( A^{-1} \) es la inversa de la matriz \( A \), siempre y cuando sea invertible.
+
+Este método solo puede aplicarse si la matriz \( A \) es cuadrada y su determinante no es cero.
+## Ejercicio propuesto
+
+Resolver el siguiente sistema de ecuaciones:
+
+2x + y - z = 8 
+-3x - y + 2z = -11 
+-2x + y + 2z = -3
+
+comentario final 
+
+El método de la inversa es sencillo de implementar usando álgebra matricial. Es ideal para sistemas pequeños como el 3x3. Sin embargo, en sistemas grandes puede no ser eficiente.
+

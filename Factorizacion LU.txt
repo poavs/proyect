@@ -1,0 +1,24 @@
+Método LU
+
+Características: Sistema con solución única y matriz de coeficientes no singular.
+
+
+1x + 2y + 3z = 8   
+4x + 5y + 6z = 23  
+3x + 1y - 2z = 4
+
+El método LU permite separar el proceso de solución en dos pasos más simples usando matrices triangulares.
+
+Descripción del método
+La descomposición LU:
+
+Factoriza la matriz A en dos matrices triangulares: L (lower) y U (upper)
+
+Resuelve Ly = b para y
+Resuelve Ux = y para x
+comentario final
+La factorización LU es más eficiente que calcular la inversa, especialmente para sistemas grandes. Es útil cuando necesitamos resolver múltiples sistemas con la misma matriz A.
+
+
+
+
