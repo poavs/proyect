@@ -13,5 +13,5 @@ Forma la matriz aumentada [A|b]
 Aplica operaciones elementales para convertir A en la matriz identidad
 La solución aparece en la columna aumentada
 
-Comentario final
+Comentario final:
 Gauss-Jordan es directo pero computacionalmente más intensivo que la eliminación gaussiana estándar. Proporciona la matriz inversa como subproducto.
