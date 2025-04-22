@@ -17,7 +17,7 @@ Resolver el siguiente sistema de ecuaciones:
 -3x - y + 2z = -11 
 -2x + y + 2z = -3
 
-comentario final 
+comentario final:
 
 El método de la inversa es sencillo de implementar usando álgebra matricial. Es ideal para sistemas pequeños como el 3x3. Sin embargo, en sistemas grandes puede no ser eficiente.
 
