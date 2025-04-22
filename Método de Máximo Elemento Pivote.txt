@@ -23,3 +23,4 @@ Ventajas del método:
 Evita divisiones por cero
 Minimiza errores de redondeo
 Proporciona solución exacta para sistemas bien condicionados
+
