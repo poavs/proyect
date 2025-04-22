@@ -22,3 +22,4 @@ La factorización LU es más eficiente que calcular la inversa, especialmente pa
 
 
 
+
